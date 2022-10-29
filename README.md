@@ -82,6 +82,17 @@ a+b represent an agreement between A and G
 
 c+d represent disagreement between A and G.
 
+Training Data
+The training data can be downloaded from this 
+
+https://drive.google.com/drive/folders/1lcPVnoJ9XmyGtD6GsmAQ68tDQLR-IJE0?usp=share_link
+
+Reserach Paper
+
+The work is publised in an international Journal of Multimedia Tools and Applications 
+
+Cite as 
+Waheed, M., Hussain, S., Khan, A.A. et al. A methodology for image annotation of human actions in videos. Multimedia Tools Appl (2020). https://doi.org/10.1007/s11042-020-09091-2
 
 
 
