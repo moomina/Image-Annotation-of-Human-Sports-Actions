@@ -20,14 +20,14 @@ I have used four popular clustering methods described as follow:
    
 K-mean clustering is the most popular clustering method used in machine learning. The aim of the technique is to partition observation into k clusters. The formula is described below:
 
-                                                             d(x,c)=(x-c)(x-c)'
+                                               d(x,c)=(x-c)(x-c)'
                                                              
 ii) K-medoid
 
 The K-medoids clustering work similar to K-means clustering but in contrast with K-means the K-medoids selects feature vector as a center and uses Manhattan Norm to find the distance between the feature vector and center instead of l_2 norm. The formula is described below:
 
 
-                                                    |(|x_  |)|= ∑_(i=1)^n▒〖||x_(i ) ||〗  
+                                         |(|x_  |)|= ∑_(i=1)^n▒〖||x_(i ) ||〗  
 
 iii) Fuzzy-C mean 
 
@@ -37,7 +37,7 @@ iv) Agglomoreative Clustering
 
 The agglomerative clustering is based on the bottom-up approach. Each feature vector starts in its own cluster and a pair of the cluster having the minimum distance are merged in one thus moves own to form the hierarchy. The formula is described below:
 
-                                                               min{d(x,y):x ε A ,y ε B}
+                                        min{d(x,y):x ε A ,y ε B}
                                                                
 3. Classification
 
